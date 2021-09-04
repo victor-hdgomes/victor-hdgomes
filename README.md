@@ -18,7 +18,7 @@ Eu sou Victor Hugo
 
 <div>
 
- <a href="https://github.com/alexsgross">
+ <a href="https://github.com/victor-hdgomes">
 
  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-hdgomes&layout=compact&langs_count=7&theme=dark"/>
 
