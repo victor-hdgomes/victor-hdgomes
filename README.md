@@ -52,6 +52,7 @@ Sou UI/UX Designer e Web Developer FullStack.
  <h3> Banco de dados </h3>
 
  <img align="center" alt="Victor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ <img align="center" alt="Victor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
  
   <hr>
  
