@@ -2,7 +2,7 @@ Olá!
 
 Eu sou Victor Hugo.
 
-Sou UI/UX Designer e Web Developer FullStack. 
+Sou UI/UX Designer e Web Developer javascript FullStack. 
 
 
 
@@ -37,6 +37,7 @@ Sou UI/UX Designer e Web Developer FullStack.
  <img align="center" alt="Victor-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Victor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Victor-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Victor-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
 
  <hr>
 
