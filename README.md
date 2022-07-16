@@ -44,6 +44,7 @@ Sou UI/UX Designer e Web Developer javascript FullStack.
 
  <img align="center" alt="Victor-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  <img align="center" alt="Victor-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+ <img align="center" alt="Victor-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
  
   <hr>
  
