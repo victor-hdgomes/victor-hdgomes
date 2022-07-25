@@ -11,12 +11,12 @@ Sou UI/UX Designer e Web Developer javascript FullStack.
 <div>
 
  <a href="https://github.com/victor-hdgomes">
-
- <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-hdgomes&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=victor-hdgomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-hdgomes&layout=compact&langs_count=7&theme=dark"/>
 
 </div> <br>
 
- 
+![Snake animation](https://github.com/victor-hdgomes/victor-hdgomes/blob/output/github-contribution-grid-snake.svg) 
 
 <!-- Tecnologias -->  
 
@@ -35,7 +35,7 @@ Sou UI/UX Designer e Web Developer javascript FullStack.
  <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Victor-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Victor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Victor-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
  <hr>
@@ -57,7 +57,7 @@ Sou UI/UX Designer e Web Developer javascript FullStack.
  
  <h3> CMS </h3>
 
- <img align="center" alt="Victor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+ <img align="center" alt="Victor-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
  
   <hr>
 
