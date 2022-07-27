@@ -8,8 +8,8 @@ I'm Victor and I work with UI/UX Designer and Web Developer JavaScript FullStack
 <div>
 
  <a href="https://github.com/victor-hdgomes">
- <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=victor-hdgomes&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
- <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-hdgomes&layout=compact&langs_count=7&theme=light"/>
+ <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=victor-hdgomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+ <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-hdgomes&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 </div> <br>
 
@@ -22,7 +22,7 @@ I'm Victor and I work with UI/UX Designer and Web Developer JavaScript FullStack
 
   
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
  
   <h3> Prototyping </h3>
 
