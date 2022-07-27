@@ -1,6 +1,6 @@
 Hello!
 
-I'm Victor and i work with UI/UX Designer and Web Developer JavaScript FullStack
+I'm Victor and I work with UI/UX Designer and Web Developer JavaScript FullStack
 
 
 <!-- Painel de Trabalhos -->
