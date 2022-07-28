@@ -53,6 +53,7 @@ I'm Victor and I work with UI/UX Designer and Web Developer JavaScript FullStack
 
  <img align="center" alt="Victor-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <img align="center" alt="Victor-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Victor-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
  
   <hr>
  
@@ -61,11 +62,3 @@ I'm Victor and I work with UI/UX Designer and Web Developer JavaScript FullStack
  <img align="center" alt="Victor-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
  
   <hr>
-
-  
-
- 
-
-  
-
- 
