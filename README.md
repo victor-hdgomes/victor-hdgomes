@@ -1,7 +1,8 @@
-Hello!
+Hi!
 
-I'm Victor and I work with UI/UX Designer and Web Developer JavaScript FullStack
+I'm Victor and I'm a FullStack JavaScript Web Developer.
 
+I created this account to share with you all my projects and to network.
 
 <!-- Painel de Trabalhos -->
 
