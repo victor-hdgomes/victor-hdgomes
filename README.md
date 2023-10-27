@@ -1,6 +1,6 @@
 Hi!
 
-I'm Victor and I'm a FullStack JavaScript Web Developer.
+I'm Victor and I'm a FullStack Developer.
 
 I created this account to share with you all my projects and to network.
 
@@ -27,7 +27,7 @@ I created this account to share with you all my projects and to network.
  
   <h3> Prototyping </h3>
 
- <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+ <img align="center" alt="Victor-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
  <hr>
  
@@ -57,7 +57,7 @@ I created this account to share with you all my projects and to network.
   
   <h3> Mobile </h3>
 
- <img align="center" alt="Victor-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Victor-React-native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  
   <hr>
  
