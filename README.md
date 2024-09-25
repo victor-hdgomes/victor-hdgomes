@@ -1,72 +1,58 @@
-Hi!
+# Victor Hugo - Software Engineer
 
-I'm Victor and I'm a FullStack Developer.
+👋 Olá! Eu sou o Victor Hugo, um **Software Engineer** especializado em **ReactJS, NextJS, React Native, TypeScript, NodeJS, SQL** e **JavaScript**. Sou apaixonado por desenvolver soluções eficientes, escaláveis e inovadoras, tanto no front-end quanto no back-end.
 
-I created this account to share with you all my projects and to network.
+---
 
-<!-- Painel de Trabalhos -->
+## 🚀 Tecnologias e Ferramentas
 
-<div>
+- **Front-end:** ReactJS, NextJS, React Native, Redux, CSS3, HTML5, Styled Components
+- **Back-end:** NodeJS, Express, NestJS, REST APIs, SQL, NoSQL
+- **Mobile:** React Native
+- **Versionamento:** Git, GitHub, GitLab
+- **Outras Ferramentas:** Docker, Postman, VS Code, Figma
 
- <a href="https://github.com/victor-hdgomes">
- <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=victor-hdgomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
- <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-hdgomes&layout=compact&langs_count=7&theme=midnight-purple"/>
+---
 
-</div> <br>
+## 📈 Meus Projetos Recentes
 
-![Snake animation](https://github.com/victor-hdgomes/victor-hdgomes/blob/output/github-contribution-grid-snake.svg) 
-
-<a href = "mailto:developervictorhugo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-hugo-117507279" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-<!-- Technologies -->  
-
+- **[Pizza Joint](https://github.com/victor-hdgomes/pizza-framer-motion)**: Aplicação web para gerenciamento de pedidos de pizza, utilizando ReactJS e Framer Motion para animações interativas.
   
+- **[Tarefas NextJS](https://github.com/victor-hdgomes/tarefas-nextjs)**: Um organizador de tarefas construído com NextJS, Firebase e autenticação via Google com Next-Auth.
 
-<div style="display: inline_block;">
- 
-  <h3> Prototyping </h3>
+---
 
- <img align="center" alt="Victor-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+## 🧑‍💻 Experiência
 
- <hr>
- 
- <h3> Front-end </h3>
+Atualmente trabalho como **Software Engineer** na **Frotabank**, onde desenvolvo soluções mobile e web com foco em React Native e TypeScript.
 
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
- <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
- <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
- <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+---
 
- <hr>
+## 🏆 Formação
 
- <h3> Back-end </h3>
+- **Pós-graduação em Engenharia de Software** - Descomplica
+- **Pós-graduação em Projetos de Aplicativos Móveis Multiplataforma** - Descomplica
+- **Graduação em Análise e Desenvolvimento de Sistemas** - UCB
 
- <img align="center" alt="Victor-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- <img align="center" alt="Victor-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
- <img align="center" alt="Victor-NestJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
- 
-  <hr>
- 
- <h3> Databases </h3>
+---
 
- <img align="center" alt="Victor-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img align="center" alt="Victor-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Victor-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
- 
-  <hr>
+## 🔗 Redes Sociais
+
+- **LinkedIn:** [Victor Hugo](https://www.linkedin.com/in/victor-hugo-117507279)
+- **GitHub:** [victor-hdgomes](https://github.com/victor-hdgomes)
   
-  <h3> Mobile </h3>
+---
 
- <img align="center" alt="Victor-React-native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- 
-  <hr>
- 
- <h3> CMS </h3>
+## 📬 Contato
 
- <img align="center" alt="Victor-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
- 
-  <hr>
+Se você quiser discutir projetos, colaborar ou apenas bater um papo sobre tecnologia, sinta-se à vontade para me contatar:
+
+- **Email:** victor.hgomes2002@gmail.com
+- **LinkedIn:** [Victor Hugo](https://www.linkedin.com/in/victor-hugo-117507279)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-hdgomes&show_icons=true&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-hdgomes&layout=compact&theme=dracula)
