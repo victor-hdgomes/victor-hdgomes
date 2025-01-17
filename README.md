@@ -16,9 +16,7 @@
 
 ## 📈 Meus Projetos Recentes
 
-- **[Pizza Joint](https://github.com/victor-hdgomes/pizza-framer-motion)**: Aplicação web para gerenciamento de pedidos de pizza, utilizando ReactJS e Framer Motion para animações interativas.
-  
-- **[Tarefas NextJS](https://github.com/victor-hdgomes/tarefas-nextjs)**: Um organizador de tarefas construído com NextJS, Firebase e autenticação via Google com Next-Auth.
+- **[Fizzi](https://fizzi-teal.vercel.app)**: Landing page com animações em 3D. Inspirada no design da Apple, usei ferramentas como GSAP, Three.js e React Three Fiber.
 
 ---
 
